@@ -1,0 +1,24 @@
+<------ server 9 -------->
+ip: 10.10.10.9
+user: ctics
+clave: 4P&V5dB*
+root: RS$21_lui!
+
+<----- MYSQL ----->
+user: root
+clave: Dtsi*2021*
+
+
+<---- Confiuracion de wordpress ----->
+<--database-->
+database-name: blogprofesores
+password: 24823972
+user-name: root@unellez
+encode: latin_switsh_ci 
+
+<--wordpress-->
+titulo del sitio: profeblogexpress
+nombre de usuario: super@root
+contraseña: cs24823972**
+correo: stock0001system@gmail.com
+
